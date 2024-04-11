@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "color-extend",
+    "dashboard",
+    "dashboard-readlinelength"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 13,
+  "translucency": false
+}

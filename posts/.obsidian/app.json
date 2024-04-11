@@ -1,0 +1,14 @@
+{
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
+}
